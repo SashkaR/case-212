@@ -685,3 +685,4 @@
 | Pletnev Nikolay                | DevOps Itransition                                 |
 | Пушкарев Андрей                | Fullstack Development                              |
 | Исмаил Алекперов               | фрилансер, Екатеринбург                            |
+| Александр Румянцев             | ASIC Design Engineer Baikal Electronics            |
